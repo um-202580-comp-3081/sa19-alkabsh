@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SA19 Portfolio - About</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>SA19 Developer Portfolio</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="work.html">Work</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>This page describes who I am, my background, and my skills as a developer.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 amralkabsh</p>
+  </footer>
+</body>
+</html>
+
